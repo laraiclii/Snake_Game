@@ -22,9 +22,8 @@ In Snake, your goal is to grow the snake as long as possible by chasing apples. 
 - `step()` advances the game; called automatically 5 times/sec (adjust via `FramesPerSecond`)
 
 ## Testing
-
-- ./gradlew test2_1 # Basic Snake (no reverse) 
-- ./gradlew test2_3 # Snake with reverse mode
+./gradlew test2_1 # Basic Snake (no reverse) 
+./gradlew test2_3 # Snake with reverse mode
 
 ---
 
