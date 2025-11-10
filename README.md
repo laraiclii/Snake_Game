@@ -1,6 +1,6 @@
 # Snake Game
 
-The goal of Snake is to grow the snake as long as possible by guiding it to apples. The snake moves automatically and dies if it collides with itself. The snake grows by **3 cells per apple**, and the board wraps around at the edges. The head shows its current direction.
+In Snake, your goal is to grow the snake as long as possible by chasing apples. Each apple adds 3 cells, hitting yourself ends the game, and the board wraps around the edges. The snake’s head shows which way it’s moving.
 
 ---
 
