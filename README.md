@@ -4,16 +4,6 @@ In Snake, your goal is to grow the snake as long as possible by chasing apples. 
 
 ---
 
-## Features
-
-- Snake starts with **length 3** at the top-left
-- Wrap-around board edges (no death on borders)
-- Head shows direction
-- Reverse mode available (assignment 2.3)
-- Apples placed deterministically for testing
-
----
-
 ## Framework
 
 - `SnakeGame.scala` handles rendering and input.
